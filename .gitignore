@@ -1,0 +1,16 @@
+# Compilacao e Maven
+target/
+*.class
+*.jar
+!/.mvn/wrapper/*.jar
+*.war
+*.ear
+*.log
+
+# IDEs e Sistema Operacional
+.idea/
+*.iml
+.vscode/
+.settings/
+.DS_Store
+Thumbs.db
